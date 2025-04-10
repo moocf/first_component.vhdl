@@ -48,5 +48,6 @@ Creating first component and using multiple processes.
 
 - [05 FPGA VHDL ALTERA Quartus 15 first component and multiple processes](https://www.youtube.com/watch?v=j7XHAGj_pxc)
 
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/first_component.vhdl)
 
 [Quartus]: https://www.intel.com/content/www/us/en/programmable/downloads/download-center.html
